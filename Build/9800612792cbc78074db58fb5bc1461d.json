@@ -1,0 +1,13 @@
+{
+"companyName": "GWinsight",
+"productName": "Find the light",
+"dataUrl": "aa2f45a8d696b63d8c13c28c00e6a867.unityweb",
+"wasmCodeUrl": "ee72fd938c9372d88b73c021b54041d0.unityweb",
+"wasmFrameworkUrl": "c601ef7a3f5080839d68a0433d13f3a1.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
